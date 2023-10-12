@@ -1,0 +1,3 @@
+{ 
+    signal :[ name : 'clk0', wave: 'p.....']
+}
